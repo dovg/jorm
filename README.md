@@ -4,6 +4,8 @@ jorm
 Simple orm - just orm.
 
 ## Init
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdovg%2Fjorm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdovg%2Fjorm?ref=badge_shield)
+
 
 Just init connectionString
 
@@ -188,3 +190,7 @@ var userModel = {
 	}
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdovg%2Fjorm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdovg%2Fjorm?ref=badge_large)
